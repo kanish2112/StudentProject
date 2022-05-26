@@ -23,6 +23,7 @@ public class StudentDetails {
       {
             System.out.println(list[i].getName()+" "+list[i].getAge());
             System.out.println("hello");
+            //pull operation
       }
         }
 
